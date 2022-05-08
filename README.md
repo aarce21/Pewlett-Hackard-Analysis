@@ -21,7 +21,9 @@ When looking at the csv file for this data, we are able to see that there are 72
 # Summary 
 1. How many roles will need to be filled as the "silver tsunami" begins to make an impact? 
 
-      As the "silver tsunami" begins to make an impact 72,458 roles, 24.15% of employees, at Pewlett-Hackard will need to be filled. 
+      As the "silver tsunami" begins to make an impact 72,458 roles, 24.15% of employees, at Pewlett-Hackard will need to be filled. In order to determine who many of these retiring employees came from which department, I created a table that depicts that, as seen below. The Development, Production, and Sales departments will be losing the greatest number of employees as the silver tsunami begins to take effect. 
+      
+![image](https://github.com/aarce21/Pewlett-Hackard-Analysis/blob/main/Data/department_titles.PNG) 
 
 2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
